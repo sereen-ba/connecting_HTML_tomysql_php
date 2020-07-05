@@ -4,4 +4,4 @@ This project aims to connect our robot control panel web page to a database stor
 mysql localhost using php
 
 _____
-Arthur:SEREEN BAHDAD
+Author:SEREEN BAHDAD
